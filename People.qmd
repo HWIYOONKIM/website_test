@@ -1,0 +1,29 @@
+---
+title: <center>Meet the Team</center>
+subtitle: <center>Principal Investigators</center>
+format:
+  html:
+    fontsize: 13pt
+editor: visual
+type: widget_page
+---
+
+::: columns
+::: {.column width="50%"}
+[![](avatar.jpg){width="260"}](cameron%20wimpy.qmd)
+
+<center>[Cameron Wimpy](cameron%20wimpy.qmd "Assistant Professor of Political Science")</center>
+
+##### [Assistant Professor of Political Science]{style="color:gray"}
+:::
+
+::: {.column width="50%"}
+[![](avatar-1.jpg){fig-align="center" width="282"}](Laron%20K.Williams.qmd)
+
+::: {<center>=""}
+<center>[Laron K. Williams](Laron%20K.Williams.qmd)</center>
+:::
+
+##### [Assistant Professor of Political Science]{style="color:gray"}
+:::
+:::

@@ -1,0 +1,16 @@
+---
+title: "Spatial Weights and Matrices Archive"
+format:
+  html:
+    fontsize: 10pt
+editor: visual
+listing: 
+  contents:
+    - archive1.qmd
+    - archive2.qmd
+  sort:
+    - "title desc"
+    - "date"
+  sort-ui: [title, date]
+  filter-ui: [title, date]
+---

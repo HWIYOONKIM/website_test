@@ -1,0 +1,10 @@
+---
+title: "Lost in Space"
+subtitle: "News, Posts, and Tutorials on Spatial Applications to Social Science"
+format: html
+editor: visual
+---
+
+[Jian Yang and Monica Hall Win the Best Paper Award at Wowchemy 2020](lost in space document.qmd)
+
+Congratulations to Jian Yang and Monica Hall for winning the Best Paper Award at the 2020 Conference on Wowchemy for their paper \"Learning Wowchemy\".

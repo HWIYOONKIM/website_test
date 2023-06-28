@@ -1,0 +1,19 @@
+---
+title: "Interpretation: The Final Spatial Frontier"
+subtitle: "Building on the example of the diffusion of democracy, we elucidate how our approach to interpretation can be applied to modern political science problems."
+format: html
+editor: visual
+image_position: center
+---
+
+<link rel="stylesheet" href="button.css">
+
+::: link-buttons
+<a href="https://example.com/pdf" class="button">PDF</a> <a href="https://example.com/cite" class="button">Cite</a> <a href="https://example.com/code" class="button">Code</a> <a href="https://example.com/dataset" class="button">Dataset</a> <a href="https://www.cambridge.org/core/journals/political-science-research-and-methods/article/interpretation-the-final-spatial-frontier/02ECB1938AC4BABF9A2FBF37B7E6EDA7" class="button">DOI</a> <a href="https://example.com/custom" class="button">Custom Link</a>
+:::
+
+![](archive%202%20figure.png){width="571"}
+
+## Abstract
+
+The use of spatial econometric models in political science has steadily risen in recent years. However, the interpretation of these models has generally ignored the important substantive, and even spatial, nature of the estimated effects. This leaves many papers with a (non-spatial) interpretation of coefficients on the covariates and a brief discussion of the sign and strength of the spatial parameter. We introduce a general approach to interpreting spatial models and provide several avenues for an exposition of substantive spatial effects. Our approach can be generalized to most models in the spatial econometric taxonomy. Building on the example of the diffusion of democracy, we elucidate how our approach can be applied to modern political science problems.

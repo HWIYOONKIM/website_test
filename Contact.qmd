@@ -1,0 +1,28 @@
+---
+title: "Contact"
+format:
+  html:
+    fontsize: 11pt
+editor: visual
+execute:
+  echo: false
+---
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+
+[Send Email](mailto:example@example.com?subject=Hello%20World&body=I%20would%20like%20to%20contact%20you%20regarding...)
+
+
+<i class="bi bi-envelope-fill"></i> test\@example.org<br> <i class="bi bi-telephone-fill"></i> 888 888 88 88<br> <i class="bi bi-geo-alt-fill"></i> 450 Serra Mall, Stanford, CA 94305<br> <i class="bi bi-pin-map-fill"></i> Enter Building 1 and take the stairs to Reception on Floor 2<br> <i class="bi bi-clock-fill"></i> 9:00 to 17:00 Monday to Friday<br> <i class="bi bi-calendar-check-fill"></i> [Book an appointment](https://calendly.com/)<br><br>
+
+```{r}
+library(leaflet)
+leaflet(width = "800px", height = "300px") %>%
+  addTiles() %>%  # Add default OpenStreetMap map tiles
+  addMarkers(lng = -122.169551, lat = 37.427954, popup = "450 Serra Mall, Stanford, CA 94305")
+```
+
+<br>
+<br>
+
+<img src="contact.jpg" style="display: block; margin: 0 auto; max-width: 100%;">

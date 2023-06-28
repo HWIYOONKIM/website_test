@@ -1,0 +1,79 @@
+---
+title: "Cameron Wimpy"
+subtitle: "Associate Professor of Political Science"
+about:
+  id: hero-heading
+  template: trestles
+  image: avatar.jpg
+  image-width: 10em
+  image-shape: round
+  links:
+      - icon: globe
+        text: Arkansas State University
+        href: https://www.astate.edu/
+      - icon: envelope
+        text: Email
+        href: mailto:cwimpy@astate.edu
+      - icon: clipboard2-data-fill
+        text: Harvard Dataverse     
+        href: https://dataverse.harvard.edu/dataverse/cwimpy
+      - icon: twitter
+        text: twitter
+        href: https://twitter.com/camwimpy
+      - icon: github
+        text: Github
+        href: https://github.com/cwimpy
+      - icon: google scholar
+        text: Google scholar
+        href: https://scholar.google.com/citations?hl=en&user=LRQ7rpwAAAAJ
+      - icon: file-earmark-person-fill
+        text: orcid
+        href: https://orcid.org/0000-0002-2049-5229
+      - icon: file-earmark-post
+        text: publons
+        href: https://publons.com/wos-op/researcher/AAL-4656-2020/
+
+format:
+  html:
+    fontsize: 10pt
+---
+
+::: columns
+Cameron Wimpy is a political scientist at Arkansas State University with interests in political economy, political methodology, and political violence. He is an affiliate faculty with the Center for No Boundary Thinking at A-State. He formerly served as the Research Director in the [MIT Election Data and Science Lab](http://electionlab.mit.edu/), where he managed applied research on the scientific study of elections. I was also previously an affiliate faculty member with the [Harvard Institute for Quantitative Social Science](https://www.iq.harvard.edu/home). He grew up on [Crowley's Ridge](https://en.wikipedia.org/wiki/Crowley%27s_Ridge) in the Arkansas Delta. He has published peer-reviewed articles in the *Journal of Politics*, *Political Science Research and Methods*, and *Social Science Quarterly*, among others.
+
+::: {.column width="50%"}
+**Interests**
+<link rel="stylesheet" href="fontsize.css">
+<div class="interest">
+<br>
+
+-   Data Science
+
+-   Political Methodology
+
+-   Public Policy
+
+-   Spatial Econometrics
+</div>
+:::
+
+::: {.column width="50%"}
+**Education**
+<link rel="stylesheet" href="fontsize.css">
+<div class="education">
+<br>
+<i class="bi bi-mortarboard-fill"></i> PhD in Political Science, 2014
+
+[*\\ Texas A&M University*]{style="color: gray"}
+
+<i class="bi bi-mortarboard-fill"></i> MA in Political Science, 2009
+
+[*\\ Arkansas State University*]{style="color: gray"}
+
+<i class="bi bi-mortarboard-fill"></i> BA in Political Science, 2007
+
+[*\\* *Arkansas State University*]{style="color: gray"}
+</div>
+
+:::
+:::

@@ -1,0 +1,64 @@
+---
+title: "Laron K. Williams"
+subtitle: "Associate Professor of Political Science"
+about:
+  id: hero-heading
+  template: trestles
+  image: avatar-1.jpg
+  image-width: 10em
+  image-shape: round
+  links:
+    - icon: globe
+      text: University of Missouri
+      href: https://missouri.edu/
+    - icon: envelope
+      text: Email
+      href: mailto:williamslaro@missouri.edu
+    - icon: google scholar
+      text: Google scholar
+      href: https://scholar.google.com/citations?hl=en&user=mf4yXbAAAAAJ
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com/GeorgeCushen
+    - icon: github
+      text: Github
+      href: https://github.com/gcushen
+
+format:
+  html:
+    fontsize: 10pt
+---
+
+::: columns
+Laron K. Williams joined the political science department at Missouri in 2011 after spending two years at Texas Tech University. He has a Ph.D. from Texas A&M University and a B.S. from the University of Nebraska at Kearney. Dr. Williams' research interests include examining political behavior in advanced democracies, creating methods to improve substantive interpretation of empirical models, and exploring the domestic political consequences of foreign policy. His research has been published in the *American Journal of Political Science*, *Political Analysis*, the *Journal of Politics*, *International Studies Quarterly*, and the *British Journal of Political Science*, among others.
+
+::: {.column width="50%"}
+**Interest**
+<link rel="stylesheet" href="fontsize.css">
+<div class="interest">
+<br>
+
+-   Voting Behavior
+
+-   Party Competition
+
+-   Methodology
+</div>
+:::
+
+::: {.column width="50%"}
+**Education**
+
+<link rel="stylesheet" href="fontsize.css">
+<div class="education">
+<i class="bi bi-mortarboard-fill"></i> PhD in Political Science, 2008
+
+[*\\* *Texas A&M University*]{style="color: gray"}
+<br>
+<br>
+<i class="bi bi-mortarboard-fill"></i> BS in Political Science, 2003
+
+[*\\ University of Nebraska at Kearney*]{style="color: gray"}
+</div>
+:::
+:::

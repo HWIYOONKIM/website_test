@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "lost in space document.html",
+    "href": "lost in space document.html",
+    "title": "Jian Yang and Monica Hall Win the Best Paper Award at Wowchemy 2020",
+    "section": "",
+    "text": "Congratulations to Jian Yang and Monica Hall for winning the Best Paper Award at the 2020 Conference on Wowchemy for their paper “Learning Wowchemy”.\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.\nSed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.\nMauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique."
+  },
+  {
+    "objectID": "Contact.html",
+    "href": "Contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.\nSend Email\n test@example.org  888 888 88 88  450 Serra Mall, Stanford, CA 94305  Enter Building 1 and take the stairs to Reception on Floor 2  9:00 to 17:00 Monday to Friday  Book an appointment"
+  },
+  {
+    "objectID": "cameron wimpy.html",
+    "href": "cameron wimpy.html",
+    "title": "Cameron Wimpy",
+    "section": "",
+    "text": "Cameron Wimpy is a political scientist at Arkansas State University with interests in political economy, political methodology, and political violence. He is an affiliate faculty with the Center for No Boundary Thinking at A-State. He formerly served as the Research Director in the MIT Election Data and Science Lab, where he managed applied research on the scientific study of elections. I was also previously an affiliate faculty member with the Harvard Institute for Quantitative Social Science. He grew up on Crowley’s Ridge in the Arkansas Delta. He has published peer-reviewed articles in the Journal of Politics, Political Science Research and Methods, and Social Science Quarterly, among others.\nInterests \n\n\n\nData Science\nPolitical Methodology\nPublic Policy\nSpatial Econometrics\n\n\n\nEducation \n\n  PhD in Political Science, 2014\n\\ Texas A&M University\n MA in Political Science, 2009\n\\ Arkansas State University\n BA in Political Science, 2007\n\\ Arkansas State University"
+  },
+  {
+    "objectID": "archive2.html#abstract",
+    "href": "archive2.html#abstract",
+    "title": "Interpretation: The Final Spatial Frontier",
+    "section": "Abstract",
+    "text": "Abstract\nThe use of spatial econometric models in political science has steadily risen in recent years. However, the interpretation of these models has generally ignored the important substantive, and even spatial, nature of the estimated effects. This leaves many papers with a (non-spatial) interpretation of coefficients on the covariates and a brief discussion of the sign and strength of the spatial parameter. We introduce a general approach to interpreting spatial models and provide several avenues for an exposition of substantive spatial effects. Our approach can be generalized to most models in the spatial econometric taxonomy. Building on the example of the diffusion of democracy, we elucidate how our approach can be applied to modern political science problems."
+  },
+  {
+    "objectID": "archive1.html#abstract",
+    "href": "archive1.html#abstract",
+    "title": "X Marks the Spot: Discovering the Treasure of Spatial-X Models",
+    "section": "Abstract",
+    "text": "Abstract\nIn recent years, political scientists have made extensive use of spatial econometric models to test a wide range of theories. In a review of spatial papers, we find that a majority of these studies use the spatial autoregressive (SAR) model. Although this is a powerful method that reveals inferences about diffusion processes, it is also highly restrictive and makes assumptions that often are not appropriate given the expressed theories. We contend that spatial-X (SLX) models are a better reflection of typical theories about spatial processes. Our simulations demonstrate that SLX models consistently retrieve the direct and indirect effects of covariates when the true data- generating process reflects other spatial processes. SAR models, on the other hand, tend to find phantom higher-order effects that are not present in the data. We further demonstrate how SLX models reveal heterogeneity in patterns of spatial dependence in countries’ defense burdens that SAR models cannot discover."
+  },
+  {
+    "objectID": "Archive.html",
+    "href": "Archive.html",
+    "title": "Spatial Weights and Matrices Archive",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\nX Marks the Spot: Discovering the Treasure of Spatial-X Models\n\n\nWe contend that spatial-X (SLX) models are a better reflection of typical theories about spatial processes.\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nInterpretation: The Final Spatial Frontier\n\n\nBuilding on the example of the diffusion of democracy, we elucidate how our approach to interpretation can be applied to modern political science problems.\n\n\n\n\n\n\n\n \n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Spatial Weights and Matrices Project (SWAMP)",
+    "section": "",
+    "text": "SWAMP is a scholar-driven effort to simplify and share in the analysis of spatial data in the social sciences. Click on the the archive link to explore submitted data."
+  },
+  {
+    "objectID": "People.html",
+    "href": "People.html",
+    "title": "\nMeet the Team\n",
+    "section": "",
+    "text": "Cameron Wimpy\n\n\nAssistant Professor of Political Science\n\n\n\n\n\n\n\n\n\nLaron K. Williams\n\n\n\nAssistant Professor of Political Science"
+  },
+  {
+    "objectID": "Laron K.Williams.html",
+    "href": "Laron K.Williams.html",
+    "title": "Laron K. Williams",
+    "section": "",
+    "text": "Laron K. Williams joined the political science department at Missouri in 2011 after spending two years at Texas Tech University. He has a Ph.D. from Texas A&M University and a B.S. from the University of Nebraska at Kearney. Dr. Williams’ research interests include examining political behavior in advanced democracies, creating methods to improve substantive interpretation of empirical models, and exploring the domestic political consequences of foreign policy. His research has been published in the American Journal of Political Science, Political Analysis, the Journal of Politics, International Studies Quarterly, and the British Journal of Political Science, among others.\nInterest \n\n\n\nVoting Behavior\nParty Competition\nMethodology\n\n\n\nEducation\n\n\n PhD in Political Science, 2008\n\\ Texas A&M University    BS in Political Science, 2003\n\\ University of Nebraska at Kearney"
+  },
+  {
+    "objectID": "Lost in Space.html",
+    "href": "Lost in Space.html",
+    "title": "Lost in Space",
+    "section": "",
+    "text": "Jian Yang and Monica Hall Win the Best Paper Award at Wowchemy 2020\nCongratulations to Jian Yang and Monica Hall for winning the Best Paper Award at the 2020 Conference on Wowchemy for their paper \"Learning Wowchemy\"."
+  }
+]

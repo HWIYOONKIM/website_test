@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: 5f1a004e-0142-4eca-b83f-65d0ab2057dd
+      url: 'https://swamp.quarto.pub/swamp'

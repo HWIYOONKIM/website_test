@@ -1,0 +1,23 @@
+project: 
+  type: website
+
+website: 
+  title: "SWAMP"
+  image: SWAMP background.jpg
+  navbar:
+    search: true
+    right:
+      - text: "Archive"
+        file: Archive.qmd
+      - Lost in Space.qmd
+      - text: "People"
+        file: People.qmd
+      - Contact.qmd
+  page-footer: 
+    center: 
+      - text: "© 2021 Laron K. Williams & Cameron Wimpy"
+format:
+  html:
+    theme:
+      light: [Zephyr, theme.scss]
+      dark: [darkly, dark.scss]
